@@ -2,7 +2,7 @@
 
 According to my training on roadmap.sh site, I build a simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal. This project will help me to practice my Python programming skills, including working with APIs, handling JSON data, and building a simple CLI application.  
 
-Usage of this CLI is simple:  
+Usage of this CLI is simple  
 The syntax is like: user [**Github user valid name**]
 
 Example: user ln-dev7
