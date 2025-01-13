@@ -5,7 +5,7 @@ According to my training on roadmap.sh site, I build a simple command line inter
 Usage of this CLI is simple  
 The syntax is like: user [**Github user valid name**]
 
-Example: user ln-dev7
+Example: user ln-dev7  
 Output:    
 User has no recent issue  
 User ln-dev7 pushed 23 commits to ln-dev7/pqoqubbw-icons  
